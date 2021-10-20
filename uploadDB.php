@@ -12,7 +12,7 @@ $username= "root";
 $password= "";
 $db= "gallery";
 
-$conn= new mysqli($servername, $username, $pasword, $db);
+$conn= new mysqli($servername, $username, $password, $db);
 
 
 
